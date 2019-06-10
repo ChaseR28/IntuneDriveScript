@@ -1,4 +1,4 @@
-$azDriveMAppingScriptUrl= "https://ntintune.blob.core.windows.net/intune-scripts/DriveMappingScript.ps1"
+$azDriveMAppingScriptUrl= "https://raw.githubusercontent.com/ChaseR28/IntuneDriveScript/master/esg.ps1"
 
 $regKeyLocation="HKCU:\Software\Microsoft\Windows\CurrentVersion\Run"
 
