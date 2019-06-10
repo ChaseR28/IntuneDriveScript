@@ -1,4 +1,4 @@
-﻿Start-Transcript -Path $(Join-Path $env:temp "DriveMapping.log")
+Start-Transcript -Path $(Join-Path $env:temp "DriveMapping.log")
 
 $driveMappingConfig=@()
 
