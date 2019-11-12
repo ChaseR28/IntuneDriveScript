@@ -1,0 +1,23 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20191112125405
+Username: ESG\crear
+RunAs User: ESG\crear
+Configuration Name: 
+Machine: DESKTOP-65ETOJ1 (Microsoft Windows NT 10.0.18362.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -Command if((Get-ExecutionPolicy ) -ne 'AllSigned') { Set-ExecutionPolicy -Scope Process Bypass }; & 'C:\Users\crear\Desktop\IntuneDriveMapping.ps1'
+Process ID: 5468
+PSVersion: 5.1.18362.145
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.18362.145
+BuildVersion: 10.0.18362.145
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Users\crear\AppData\Local\Temp\IntuneDriveMappingScheduledTask.log
+**********************
+Windows PowerShell transcript end
+End time: 20191112125405
+**********************
